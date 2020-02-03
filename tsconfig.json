@@ -24,7 +24,8 @@
       ],
       "@server": [
         "src/Server"
-      ]
+      ],
+      "tslib": ["node_modules/tslib"]
     },
     "types": [
       "node"
